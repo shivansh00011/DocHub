@@ -122,6 +122,14 @@ Create new documents with the "Create" button.
 
 * Share the link with collaborators for simultaneous editing.
 
+### Project Video:
+
+
+
+https://github.com/user-attachments/assets/a9a3eb24-4ab1-4606-b9d3-1468cb741c39
+
+
+
 
 ### Troubleshooting
 
