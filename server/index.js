@@ -21,7 +21,7 @@ app.use(authRouter);
 app.use(documentRouter);
 
 // MongoDB connection string
-const DB = "mongodb+srv://shivansh:shivansh01@cluster0.9mtqz.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0";
+const DB = "your_mongodb_connection_string";
 
 mongoose
   .connect(DB, { useNewUrlParser: true, useUnifiedTopology: true }) // Optional: Add these options for better compatibility
